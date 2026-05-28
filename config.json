@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyealculate",
+        "uuid": 20337120,
+        "checksum": "hz1wbl9"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
